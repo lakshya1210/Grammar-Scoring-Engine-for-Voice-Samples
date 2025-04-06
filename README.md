@@ -50,11 +50,11 @@ The Grammar Scoring Engine provides detailed analysis including:
 
 1. **Audio Waveform Visualization**
    
-   ![Audio Waveform Analysis](photo1.jpeg)
+   ![Audio Waveform Analysis](result/photo1.jpeg)
 
 2. **Grammar Analysis Report**
    
-   ![Grammar Analysis Results](photo2.jpeg)
+   ![Grammar Analysis Results](result/photo2.jpeg)
 
 The system provides:
 - Accurate audio transcription
