@@ -9,8 +9,12 @@ A Python package for automated grammar assessment of audio recordings.
    git clone https://github.com/yourusername/grammar-scoring-engine.git
    cd grammar-scoring-engine
    ```
-
-2. Install dependencies:
+2. Make Environment
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate
+   ```
+3. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
